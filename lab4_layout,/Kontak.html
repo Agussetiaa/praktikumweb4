@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html leng="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hubungi Kami</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hubungi Kami</h1>
+        <p style="color: cornflowerblue;">Email:agussetiaone666@gmail.com</p>
+        <p style="color: cornflowerblue;"> Wa: 083841542026</p>
+        <!-- Tambahkan header lainnya sesuai kebutuhan Anda -->
+    </header>
+    <section id="form-kontak">
+        <h3>Silahkan isi from di bawah ini :</h3>
+        <form action="proses_form_kontak.php" method="post">
+            <div class="input-container">
+                <label for="nama">Nama:</label>
+                <input type="text" id="nama" name="nama" required>
+            </div>
+            <div class="input-container">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="input-container">
+                <label for="pesan">Pesan:</label>
+                <textarea id="pesan" name="pesan" rows="4" required></textarea>
+            </div>
+            <button type="submit">Kirim Pesan</button>
+        </form>
+    </section>
+    <!-- Tambahkan footer atau bagian lainnya sesuai kebutuhan Anda -->
+</body>
+</html>
