@@ -309,6 +309,7 @@ nav a:hover {
     }
 ```
 
+![Screenshot (346)](https://github.com/Agussetiaa/praktikumweb4/assets/115542822/9e9d9569-f24a-43fa-8412-16afb5f15dfa)
 
 ## Mengatur Footer
 - Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -321,7 +322,8 @@ nav a:hover {
     color:#eee;
     }
 ```
-gambar
+
+![Screenshot (347)](https://github.com/Agussetiaa/praktikumweb4/assets/115542822/36cfa946-e596-4baf-954c-249ba82b19e3)
 
 ## Menambahkan Element lainnya pada Main Content.
 ```
