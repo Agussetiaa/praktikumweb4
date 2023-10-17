@@ -462,6 +462,7 @@ nav a:hover {
 ### 1. Tambahkan Layout untuk menu About
 ### => buat single layout yang berisi deskripsi, portfolio, dll
 
+<img width="480" alt="image" src="https://github.com/Agussetiaa/praktikumweb4/assets/115542822/343979bc-f5b4-47c2-8539-2784030f6518">
 
 ### 2. Tambahkan layout untuk menu Contact
 ### => yang berisi form isian: nama, email, message, dll
